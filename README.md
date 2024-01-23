@@ -19,4 +19,4 @@ Example
 
 
 
-"This project didn't go very smoothly.In time domain isn't work that i do, need to do in frequency domain"
+"This project didn't go very smoothly. I try to doin time domain,isn't work.So need to do in frequency domain"
