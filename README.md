@@ -1,6 +1,6 @@
-Finger Photo Resolution Analysis 
---------------------------------
 Project Class
+--------------------------------
+Finger Photo Resolution Analysis
 
 Objective
 --------
